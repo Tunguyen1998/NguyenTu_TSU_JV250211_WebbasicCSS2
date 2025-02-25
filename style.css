@@ -1,11 +1,10 @@
-div p{
-    background-color: rgb(201, 206, 209);
-    font-size: 100px;
-    text-align: center;
-    width: 500px;
-    border-right: 15px dotted blue;
-    border-top: 10px solid red;
-    border-left: 30px ridge rgb(180, 85, 180);
-    border-bottom: 20px double orange;
-
+button{
+    background-color: rgb(239, 230, 230);
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: red;
+    color: white;
 }
