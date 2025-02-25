@@ -1,11 +1,11 @@
-div p{
-    background-color: rgb(201, 206, 209);
-    font-size: 100px;
-    text-align: center;
-    width: 500px;
-    border-right: 15px dotted blue;
-    border-top: 10px solid red;
-    border-left: 30px ridge rgb(180, 85, 180);
-    border-bottom: 20px double orange;
+p{
+    background-color: red;
+    padding: 80px;
+    width: 60px;
+    margin: 50px 50px;
+    
+}
+p:hover{
+    transform: rotate(45deg);
 
 }
