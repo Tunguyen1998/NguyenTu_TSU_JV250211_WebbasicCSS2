@@ -1,11 +1,11 @@
-p{
-    background-color: red;
-    padding: 80px;
-    width: 60px;
-    margin: 50px 50px;
-    
-}
-p:hover{
-    transform: rotate(45deg);
 
+span{
+    padding: 30px;
+    background-color: rgb(194, 194, 222);
+    position: fixed;
+    top:50%; left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+    
 }
