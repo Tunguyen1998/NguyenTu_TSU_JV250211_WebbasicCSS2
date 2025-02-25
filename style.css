@@ -1,11 +1,9 @@
-div p{
-    background-color: rgb(201, 206, 209);
-    font-size: 100px;
-    text-align: center;
-    width: 500px;
-    border-right: 15px dotted blue;
-    border-top: 10px solid red;
-    border-left: 30px ridge rgb(180, 85, 180);
-    border-bottom: 20px double orange;
+p{
+    background-color: rgb(190, 188, 188);
+    padding: 2%;
+    color: white;
+}
+p:hover{
+    background-color: rgb(125, 92, 92);
 
 }
